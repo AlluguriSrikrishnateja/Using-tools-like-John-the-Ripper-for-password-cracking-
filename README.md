@@ -63,6 +63,7 @@ Cracked Passwords from Hash File
 * Confirm the ZIP File is Present
   1. Run: “ls” command
   <img width="472" alt="image" src="https://github.com/user-attachments/assets/2ff463e8-c480-4321-af24-d24ae0d47d53" />
+
   2. You should see krishna.txt.zip listed.
 
 * Generate Hash Using zip2john:
