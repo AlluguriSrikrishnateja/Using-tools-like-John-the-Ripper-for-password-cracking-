@@ -31,9 +31,6 @@ Cracked Passwords from Hash File
 
 4. Save and close the file.
 
- 
-
-
 
 
 
@@ -51,7 +48,6 @@ Cracked Passwords from Hash File
 1. Click on the Kali menu or press the Super (Windows) key.
 2. Search for “john” and click it — this opens the terminal with John the
    Ripper installed.
- 
 ![Screenshot 2025-04-26 132841](https://github.com/user-attachments/assets/a1fc6849-b94d-443b-94a8-19de902f53af)
 
 3. Or simply open a Terminal from the dock or desktop.
@@ -62,7 +58,6 @@ Cracked Passwords from Hash File
 
 * Confirm the ZIP File is Present
   1. Run: “ls” command
- 
   2. You should see krishna.txt.zip listed.
   <img width="472" alt="image" src="https://github.com/user-attachments/assets/2ff463e8-c480-4321-af24-d24ae0d47d53" />
 
